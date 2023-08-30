@@ -1,0 +1,7 @@
+- Python 
+- Tensorflow 
+- Numpy 
+- Pandas 
+- Scikit-learn 
+- Gensim 
+- Re
